@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igor-aegro
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning Spring Boot
+- 📫 Reach me: igor.fontes@aegro.com.br
